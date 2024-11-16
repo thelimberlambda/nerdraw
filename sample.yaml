@@ -1,0 +1,6 @@
+nd:
+  title: A Sample
+SampleBox:
+  w: 300
+  h: 100
+  fill: white
